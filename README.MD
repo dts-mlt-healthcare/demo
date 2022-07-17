@@ -3,13 +3,13 @@
 Melakukan klasifikasi 41 penyakit dari gejala yang dimiliki pasien
 ```
 # Requirement
-* python
+* Python 3
 * Tensorflow 2
-* sklearn
-* pandas
-* seaborn
-* numpy
-* matplotlib
+* Sklearn
+* Pandas
+* Seaborn
+* Numpy
+* Matplotlib
 
 # Preprop.ipynb
 ```
