@@ -35,7 +35,8 @@ Menggunakan Neural Network dengan jumlah dense yang berbeda
 
 # Evaluasi
 ```
-Model dievaluasi menggunakan dataset testing yang sudah di SPLIT dan diukur performanya menggunakan Confusion matrix untuk di lihat akurasinya
+Model dievaluasi menggunakan dataset testing yang sudah di SPLIT.
+Metrik performa menggunakan akurasi dari hasil Confusion Matrix
 ```
 
 # Output
